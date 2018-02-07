@@ -17,7 +17,8 @@
     "protractor-jasmine2-html-reporter": "0.0.7"
   },
   "dependencies": {
-    "jasmine-allure-reporter": "^1.0.2"
+    "jasmine-allure-reporter": "^1.0.2",
+    "protractor": "^2.1.0"
   },
   "bugs": {
     "url": "https://github.com/aSerheieva/autotestrepo/issues"
